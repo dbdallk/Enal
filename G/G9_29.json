@@ -1,0 +1,16 @@
+{
+  "game error": "خطای بازی",
+  "game warning": "هشدار بازی",
+  "game log": "گزارش بازی",
+  "gaming error": "خطای بازی",
+  "graphics error": "خطای گرافیک",
+  "graph error": "خطای گراف",
+  "grid error": "خطای شبکه",
+  "global error": "خطای سراسری",
+  "general error": "خطای عمومی",
+  "group error": "خطای گروه",
+  "guest error": "خطای مهمان",
+  "gateway error": "خطای درگاه",
+  "game error handler": "مدیریت خطای بازی",
+  "gaming error log": "گزارش خطای بازی"
+}
