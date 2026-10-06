@@ -1,0 +1,22 @@
+{
+  "safeMode": "حالت امن",
+  "sampleData": "داده نمونه",
+  "saveFile": "فایل ذخیره",
+  "screenLock": "قفل صفحه",
+  "searchEngine": "موتور جست‌وجو",
+  "securityAlert": "هشدار امنیتی",
+  "selectFolder": "انتخاب پوشه",
+  "serverConnection": "اتصال سرور",
+  "serviceWorker": "سرویس‌ورکر",
+  "sessionTimeout": "پایان مهلت نشست",
+  "sharedSettings": "تنظیمات مشترک",
+  "shortcutMenu": "منوی میانبر",
+  "signIn": "ورود",
+  "signOut": "خروج",
+  "siteMap": "نقشه سایت",
+  "sourceCode": "کد منبع",
+  "specialFolder": "پوشه ویژه",
+  "startService": "شروع سرویس",
+  "statusCode": "کد وضعیت",
+  "systemSettings": "تنظیمات سیستم"
+}
