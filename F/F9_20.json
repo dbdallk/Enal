@@ -1,0 +1,17 @@
+{
+  "file reader": "خواننده فایل",
+  "file writer": "نویسنده فایل",
+  "folder reader": "خواننده پوشه",
+  "folder writer": "نویسنده پوشه",
+  "format reader": "خواننده قالب",
+  "format writer": "نویسنده قالب",
+  "framework API": "رابط برنامه‌نویسی چارچوب",
+  "frontend framework": "چارچوب رابط کاربری",
+  "full documentation": "مستندات کامل",
+  "function declaration": "اعلان تابع",
+  "function implementation": "پیاده‌سازی تابع",
+  "fundamental data": "داده بنیادی",
+  "future compatibility": "سازگاری آینده",
+  "failure handling": "مدیریت خطا",
+  "fast execution": "اجرای سریع"
+}
