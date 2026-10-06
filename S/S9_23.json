@@ -1,0 +1,23 @@
+{
+  "safeMode": "حالت امن",
+  "sampleFile": "فایل نمونه",
+  "saveFile": "فایل ذخیره",
+  "screenHeight": "ارتفاع صفحه",
+  "screenOrientation": "جهت صفحه",
+  "searchBox": "جعبه جست‌وجو",
+  "securityCheck": "بررسی امنیت",
+  "selectBox": "جعبه انتخاب",
+  "serverError": "خطای سرور",
+  "serverStatus": "وضعیت سرور",
+  "serviceAccount": "حساب سرویس",
+  "sessionManager": "مدیر نشست",
+  "sharedFile": "فایل مشترک",
+  "shortcutIcon": "نماد میانبر",
+  "siteName": "نام سایت",
+  "sourceFormat": "قالب منبع",
+  "sourceLanguage": "زبان منبع",
+  "specialEffect": "جلوه ویژه",
+  "startButton": "دکمه شروع",
+  "statusCode": "کد وضعیت",
+  "systemPath": "مسیر سیستم"
+}
