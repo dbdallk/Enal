@@ -1,0 +1,23 @@
+{
+  "savepoint": "نقطه ذخیره",
+  "scanner": "اسکنر",
+  "schemaVersion": "نسخه طرح‌واره",
+  "screenCapture": "گرفتن تصویر صفحه",
+  "screenWidth": "عرض صفحه",
+  "searchFilter": "فیلتر جست‌وجو",
+  "securityToken": "توکن امنیتی",
+  "selectionMode": "حالت انتخاب",
+  "serverAddress": "نشانی سرور",
+  "serverPort": "درگاه سرور",
+  "sessionToken": "توکن نشست",
+  "sharedData": "داده مشترک",
+  "shortcutMenu": "منوی میانبر",
+  "signIn": "ورود به حساب",
+  "signOut": "خروج از حساب",
+  "siteSettings": "تنظیمات سایت",
+  "sourceCode": "کد منبع",
+  "sourceControl": "کنترل منبع",
+  "specialCharacter": "نویسه ویژه",
+  "statusText": "متن وضعیت",
+  "systemTray": "سینی سیستم"
+}
